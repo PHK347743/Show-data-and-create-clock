@@ -1,0 +1,7 @@
+---
+label: "empty_2"
+quality: "unknown"
+project:
+- id: "main"
+  path: "lab3.slcp"
+  output: "."
